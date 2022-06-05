@@ -1,0 +1,39 @@
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <script src="script.js"></script>
+    <!-- <link rel="stylesheet" type="text/css" href="styles.css"> -->
+  </head>
+  <body>
+  <div class="container">
+  Please enter a number <input type= "number" id="primeNum" >
+  <p id="output"></p>
+  <button onclick="display()">Click kro</button>
+  </div> 
+  </body>
+</html>
+
+
+
+
+
+
+
+function display(){
+  //console.log("helloworld")
+  let userInput= document.getElementById("primeNum").value
+ // document.getElementById("output").innerHTML=userInput
+ console.log(typeof(userInput))
+ if(userInput===""){
+   alert("kindly enter a number")
+ }
+ let convertUI= Number(userInput)
+ console.log(typeof(convertUI))
+ for(let i=2; i<=convertUI-1; i++){
+   if(convertUI%i==0){
+     console.log("number is not prime");
+   }
+   
+ }
+ console.log("number is prime")
+}

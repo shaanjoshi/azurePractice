@@ -1,0 +1,192 @@
+
+<!DOCTYPE html>
+<html lang="en">
+   <head>
+      <meta charset="UTF-8">
+      <meta http-equiv="X-UA-Compatible" content="IE=edge">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <title> Training School </title>
+      <style>
+         .main{
+         Display:flex;
+         justify-content:center;
+         align-items:center;
+         }
+         #M2{
+             margin-bottom: 16px;
+            }
+      </style>
+   </head>
+   <body>
+      <header>
+         <h1 class="main" ID="M1"> L&T Infotech </h1>
+         <hr>
+      </header>
+      <main>
+         <section>
+         <div align="left"><h4>Digital Engineering Academy</h4> </div>
+         <div align="left"><h4>Date:18/5/2022</h4> </div>
+         <hr>
+         </section>
+         <section>
+            <div>
+               <table border="2" cellspacing="0" align="Center">
+                  <caption class="main2" id="M2"><b>Daily schedule</b></caption>
+                  <tr>
+                     <td align="center" height="50"
+                        width="100"><br>
+                        <b>Day/Time</b></br>
+                     </td>
+                     <td align="center" height="50"
+                        width="100">
+                        <b>9:00-11:00</b>
+                     </td>
+                     <td align="center" height="50"
+                        width="100">
+                        <b>11:00-11:15</b>
+                     </td>
+                     <td align="center" height="50"
+                        width="100">
+                        <b>11:15-1:00</b>
+                     </td>
+                     <td align="center" height="50"
+                        width="100">
+                        <b>1:00-2:00</b>
+                     </td>
+                     <td align="center" height="50"
+                        width="100">
+                        <b>2:00-3:30</b>
+                     </td>
+                     <td align="center" height="50"
+                        width="100">
+                        <b>3:30-4:00</b>
+                     </td>
+                     <td align="center" height="50"
+                        width="100">
+                        <b>4:00-6:10</b>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td align="center" height="50">
+                        <b>Monday</b>
+                     </td>
+                     <td align="center" height="50">Technical session</td>
+                     <td align="center" height="50">Tea-Break</td>
+                     <td align="center" height="50">Soft-Skill</td>
+                     <td align="center" height="50">Lunch Break</td>
+                     <td align="center" height="50">Technical session</td>
+                     <td align="center" height="50">Tea-Break</td>
+                     <td align="center" height="50">Soft-Skill</td> 
+                     
+                     
+                  </tr>
+                   <tr>
+                     <td align="center" height="50">
+                        <b>Tuesday</b>
+                     </td>
+                     <td align="center" height="50">Technical session</td>
+                     <td align="center" height="50">Tea-Break</td>
+                     <td align="center" height="50">Technical session</td>
+                     <td align="center" height="50">Lunch Break</td>
+                     <td align="center" height="50">Soft Skill</td>
+                     <td align="center" height="50">Tea-Break</td>
+                     <td align="center" height="50">Technical session</td> 
+                     
+                     
+                  </tr>
+                   <tr>
+                     <td align="center" height="50">
+                        <b>Wednesday</b>
+                     </td>
+                     <td align="center" height="50">Technical session</td>
+                     <td align="center" height="50">Tea-Break</td>
+                     <td align="center" height="50">Technical session</td>
+                     <td align="center" height="50">Lunch Break</td>
+                     <td align="center" height="50">Soft skill</td>
+                     <td align="center" height="50">Tea-Break</td>
+                     <td align="center" height="50">Peer learning</td> 
+                     
+                     
+                  </tr>
+                   <tr>
+                     <td align="center" height="50">
+                        <b>Thursday</b>
+                     </td>
+                     <td align="center" height="50">Technical session</td>
+                     <td align="center" height="50">Tea-Break</td>
+                     <td align="center" height="50">Soft-Skill</td>
+                     <td align="center" height="50">Lunch Break</td>
+                     <td colspan="2" align="center">Peer Learning</td> 
+                     <td align="center" height="50">Weekly review meet</td>
+                     
+                     
+                  </tr>
+                   <tr>
+                     <td align="center" height="50">
+                        <b>Friday</b>
+                     </td>
+                     <td colspan="7" align="center">E-Learning</td> 
+                     
+                    </tr>
+                  </tr>
+                  
+               </table>
+            </div>
+         </section>
+         <section>
+                  <div>
+                       <b>IT essential phase includes:</b><br>
+                       <ul type="disc">
+                       <li> HTML</li>
+                       <li>CSS</li>
+                       <li>Java script</li>
+                       </ul>
+                  </div>
+         </section> 
+<section>
+<div>
+                  <table border="2" cellspacing="0" align="center">
+                  <caption><b>Course Table</b></caption>
+<thead>
+<tr>
+<th>S.No</th>
+<th>Course</th>
+<th>Course Duration</th>
+<th>Reference Video</th>
+<th>Study material</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center">1</td>
+<td align="center">HTML</td>
+<td align="center">2 Hrs</td>
+<td align="center"><a href= "https://www.youtube.com/watch?v=pQN-pnXPaVg" target="_blank">Click Here</a></td>
+<td align="center"><a href= "https://www.w3schools.com/html/" target="_blank">Click Here</a></td>
+</tr>
+<tr>
+<td align="center">2</td>
+<td align="center">CSS</td>
+<td align="center">8 Hrs</td>
+<td align="center"><a href= "https://www.youtube.com/watch?v=Edsxf_NBFrw" target="_blank">Click Here</a></td>
+<td align="center"><a href= "https://www.w3schools.com/w3css/defaulT.asp" target="_blank">Click Here</a></td>
+</tr>
+<tr>
+<td align="center">3</td>
+<td align="center">Javascript</td>
+<td align="center">8 Hrs</td>
+<td align="center"><a href= "https://www.youtube.com/watch?v=hKB-YGF14SY" target="_blank">Click Here</a></td>
+<td align="center"><a href= "https://www.w3schools.com/js/" target="_blank">Click Here</a></td>
+</tr>
+</tbody>
+                  </table>
+</div>
+</section>
+         <aside>
+            <div></div>
+         </aside>
+      </main>
+      <footer>
+      </footer>
+   </body>
+</html>
